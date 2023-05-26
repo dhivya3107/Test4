@@ -7,7 +7,7 @@ on:
   push:
     branches: 
       - crm-dev
-      - crm-sit
+      - crm-sit 
   pull_request:
     types: [closed]
     branches: 
